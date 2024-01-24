@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Passionate about software development, web develpment and problem-solving; energised by the creative process and continuous learning, dedicated to making a positive impact.<br><br>🎲 Interests: Drawing and painting</p>
+<p align="left">✨ Passionate about software development, web develpment and problem-solving; energised by the creative process and continuous learning, dedicated to making a positive impact.<br><br>🎲 Interests: Software Developmet, web development, drawing and painting</p>
 
 ###
 
