@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Passionate about software development and problem-solving; energised by the creative process and continuous learning, dedicated to making a positive impact.<br><br>🎲 Interests: Drawing and painting</p>
+<p align="left">✨ Passionate about software development,web develpment and problem-solving; energised by the creative process and continuous learning, dedicated to making a positive impact.<br><br>🎲 Interests: Drawing and painting</p>
 
 ###
 
@@ -42,8 +42,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
   <img width="12" />
